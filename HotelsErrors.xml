@@ -6,7 +6,7 @@
   <!-- Error 2: Missing required Rating attribute -->
   <Phone>800-937-8461</Phone>
   <Phone>480-968-8885</Phone>
-  <Address nearstAirport="Sky Harbor">
+  <Address NearstAirport="Sky Harbor">
     <Number>11</Number>
     <Street>E.7th St</Street>
     <City>Tempe</City>
@@ -17,7 +17,7 @@
   <!-- Error 5: Two Name elements for one hotel -->
   <Rating>4.5</Rating>
   <!-- Error 3: Phone element is missing -->
-  <Address nearstAirport="Phoenix International">
+  <Address NearstAirport="Phoenix International">
     <Number>2435</Number>
     <Street>E. Washington St</Street>
     <City>Phoenix</City>

@@ -12,7 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Hilton</Name>
     <Phone>800-445-8667</Phone>
     <Address NearstAirport="Phoenix International">
@@ -35,7 +35,7 @@
       <Zip>85034</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.9">
+  <Hotel>
     <Name>Hyatt</Name>
     <Phone>602-252-1234</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -69,7 +69,7 @@
       <Zip>85027</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.4">
+  <Hotel>
     <Name>Embassy Suites</Name>
     <Phone>480-897-7444</Phone>
     <Address>

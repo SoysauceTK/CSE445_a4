@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <!-- Hotel with rating -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
@@ -12,6 +14,8 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.5">
     <Name>Hilton</Name>
     <Phone>800-445-8667</Phone>
@@ -23,11 +27,13 @@
       <Zip>85034</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.1">
     <Name>Marriott</Name>
     <Phone>888-236-2427</Phone>
     <Phone>602-199-9500</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix International">
       <Number>1101</Number>
       <Street>N. 22nd St</Street>
       <City>Phoenix</City>
@@ -35,6 +41,8 @@
       <Zip>85034</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel WITHOUT rating -->
   <Hotel>
     <Name>Hyatt</Name>
     <Phone>602-252-1234</Phone>
@@ -46,10 +54,12 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.0">
     <Name>Sheraton</Name>
     <Phone>480-968-8885</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix International">
       <Number>340</Number>
       <Street>N. 3rd St</Street>
       <City>Phoenix</City>
@@ -57,6 +67,8 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.3">
     <Name>DoubleTree</Name>
     <Phone>800-222-8733</Phone>
@@ -69,10 +81,12 @@
       <Zip>85027</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.4">
     <Name>Embassy Suites</Name>
     <Phone>480-897-7444</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix International">
       <Number>4415</Number>
       <Street>E. Paradise Village Pkwy S</Street>
       <City>Phoenix</City>
@@ -80,6 +94,8 @@
       <Zip>85032</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="3.8">
     <Name>Best Western</Name>
     <Phone>800-780-7234</Phone>
@@ -92,10 +108,12 @@
       <Zip>85020</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.6">
+  
+  <!-- Hotel WITHOUT rating -->
+  <Hotel>
     <Name>Four Seasons</Name>
     <Phone>480-515-5700</Phone>
-    <Address>
+    <Address NearstAirport="Phoenix International">
       <Number>10600</Number>
       <Street>E. Crescent Moon Dr</Street>
       <City>Scottsdale</City>
@@ -103,6 +121,8 @@
       <Zip>85262</Zip>
     </Address>
   </Hotel>
+  
+  <!-- Hotel with rating -->
   <Hotel Rating="4.7">
     <Name>Ritz-Carlton</Name>
     <Phone>480-483-1400</Phone>

@@ -5,7 +5,7 @@
     <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
     <Phone>480-968-8885</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Address nearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E.7th St</Street>
       <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel Rating="4.5">
     <Name>Hilton</Name>
     <Phone>800-445-8667</Phone>
-    <Address NearstAirport="Phoenix International">
+    <Address nearstAirport="Phoenix International">
       <Number>2435</Number>
       <Street>E. Washington St</Street>
       <City>Phoenix</City>
@@ -39,7 +39,7 @@
   <Hotel Rating="3.9">
     <Name>Hyatt</Name>
     <Phone>602-252-1234</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Address nearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N. 2nd St</Street>
       <City>Phoenix</City>
@@ -62,7 +62,7 @@
     <Name>DoubleTree</Name>
     <Phone>800-222-8733</Phone>
     <Phone>480-967-1440</Phone>
-    <Address NearstAirport="Phoenix International">
+    <Address nearstAirport="Phoenix International">
       <Number>2100</Number>
       <Street>W. Paradise Lane</Street>
       <City>Phoenix</City>
@@ -85,7 +85,7 @@
     <Name>Best Western</Name>
     <Phone>800-780-7234</Phone>
     <Phone>602-275-1261</Phone>
-    <Address NearstAirport="Sky Harbor">
+    <Address nearstAirport="Sky Harbor">
       <Number>1615</Number>
       <Street>E. Northern Ave</Street>
       <City>Phoenix</City>
@@ -108,7 +108,7 @@
     <Name>Ritz-Carlton</Name>
     <Phone>480-483-1400</Phone>
     <Phone>800-241-3333</Phone>
-    <Address NearstAirport="Phoenix International">
+    <Address nearstAirport="Phoenix International">
       <Number>2401</Number>
       <Street>E. Camelback Rd</Street>
       <City>Phoenix</City>
